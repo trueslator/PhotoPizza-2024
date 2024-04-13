@@ -1,0 +1,3 @@
+https://web.archive.org/web/20201022083415/http://makerdrive.org/project/item/photopizza#!prettyPhoto
+
+<a href="https://sketchfab.com/3d-models/automatic-rotary-table-photopizza-d700-0adc2a0adfff4fdca613fcbd9919bce4">sketchfab model</a>  note: this uses an outdated design (you can see that the linkage connected the motor carraige to the base is using rubber rings instead of bolts)
