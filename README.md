@@ -19,4 +19,39 @@ This fork is an attempt to collect all the information on the project and popula
 
 <a href="https://web.archive.org/web/20201022083415/http://makerdrive.org/project/item/photopizza#!prettyPhoto">archived photopizza blog</a>
 
-<a href="https://sketchfab.com/3d-models/automatic-rotary-table-photopizza-d700-0adc2a0adfff4fdca613fcbd9919bce4">sketchfab model</a>  note: this uses an outdated design (you can see that the linkage connected the motor carraige to the base is using rubber rings instead of bolts)
+<a href="https://web.archive.org/web/20221026012420/https://photopizza.org/">archived photopizza website</a>
+
+<a href="https://www.youtube.com/c/PhotoPizza">original photopizza youtube</a>
+
+<a href="https://www.instagram.com/diy.photopizza/">original photopizza instagram</a>
+
+<a href="https://habr.com/ru/articles/247315/">blog post 1 (Russian, use Google Translate)</a>
+
+<a href="https://habr.com/ru/articles/238287/">blog post 2 (Russian, use Google Translate)</a>
+
+<a href="https://sketchfab.com/3d-models/automatic-rotary-table-photopizza-d700-0adc2a0adfff4fdca613fcbd9919bce4">sketchfab model</a>
+
+***note: this uses an outdated design (you can see that the linkage connected the motor carraige to the base is using rubber rings instead of bolts)
+
+Currently need:
+
+1.Parts list / BOM
+	a. Nuts
+	b. Bolts
+	c. Bearings
+	d. NEMA motor
+	e. Friction drive roller
+	f. Remote control from blog photos(IR? Radio?)
+	g. Motor driver
+	h. Hardware controllers (buttons, switches, shutter ports, wires)
+
+2. Software
+	a. Testing of current firmware / app
+	b. Configuration and operation instructions (see blog and archived website links for info on remote control operation)
+
+3. Schematics
+	a. Schematics for Arduino + Motordriver + Remote control receiver, Shutter ports, etc
+
+
+
+
