@@ -44,21 +44,21 @@ If you are not making a 3D model with the data for previs or customization, it c
 Currently need:
 
 1.Parts list / BOM
-	* Nuts
-	* Bolts
-	* Bearings
-	* NEMA motor
-	* Friction drive roller
-	* Remote control from blog photos(IR? Radio?)
-	* Motor driver
-	* Hardware controllers (buttons, switches, shutter ports, wires)
+* Nuts
+* Bolts
+* Bearings
+* NEMA motor
+* Friction drive roller
+* Remote control from blog photos(IR? Radio?)
+* Motor driver
+* Hardware controllers (buttons, switches, shutter ports, wires)
 
 2. Software
-	* Testing of current firmware / app
-	* Configuration and operation instructions (see blog and archived website links for info on remote control operation)
+* Testing of current firmware / app
+* Configuration and operation instructions (see blog and archived website links for info on remote control operation)
 
 3. Schematics
-	* Schematics for Arduino + Motordriver + Remote control receiver, Shutter ports, etc
+* Schematics for Arduino + Motordriver + Remote control receiver, Shutter ports, etc
 
 
 
