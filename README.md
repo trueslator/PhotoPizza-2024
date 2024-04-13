@@ -9,6 +9,6 @@ using the detailed instructions, and you do not need deep knowledge in electroni
 
 UPDATE 2024
 
-Photopizza's original repository does not appear to be maintained any more.  The website <a href="www.photopizza.org"> appears to be offline as well, though there are some links in wayback machine.  No luck contacting the author.
+Photopizza's original repository does not appear to be maintained any more.  The <a href="www.photopizza.org">website</a> appears to be offline as well, though there are some links in wayback machine.  No luck contacting the author.
 
 This fork is an attempt to collect all the information on the project and populate it with all neccessary instructions and resources.
