@@ -35,7 +35,7 @@ This fork is an attempt to collect all the information on the project and popula
 
 <a href="https://sketchfab.com/3d-models/automatic-rotary-table-photopizza-d700-0adc2a0adfff4fdca613fcbd9919bce4">sketchfab model</a>
 
-    ***note: this sketchfab model uses an outdated design (you can see that the linkage connected the motor carraige to the base is using rubber rings instead of bolts.  This appears to be the main distinction between v7 and and the previous versions)***
+   ***note: this sketchfab model uses an outdated design (you can see that the linkage connected the motor carraige to the base is using rubber rings instead of bolts.  This appears to be the main distinction between v7 and and the previous versions)***
 
 Re: Lasercut drawings 
 
