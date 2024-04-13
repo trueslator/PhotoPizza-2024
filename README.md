@@ -17,7 +17,7 @@ This fork is an attempt to collect all the information on the project and popula
 
 ###LINKS###
 
-<a href="https://web.archive.org/web/20201022083415/http://makerdrive.org/project/item/photopizza#!prettyPhoto">archived photopizza blog</a>
+<a href="https://web.archive.org/web/20201022083415/http://makerdrive.org/project/item/photopizza#!prettyPhoto">archived photopizza blog</a>``
 
 <a href="https://web.archive.org/web/20221026012420/https://photopizza.org/">archived photopizza website</a>
 
@@ -31,26 +31,34 @@ This fork is an attempt to collect all the information on the project and popula
 
 <a href="https://sketchfab.com/3d-models/automatic-rotary-table-photopizza-d700-0adc2a0adfff4fdca613fcbd9919bce4">sketchfab model</a>
 
-***note: this uses an outdated design (you can see that the linkage connected the motor carraige to the base is using rubber rings instead of bolts)
+***note: this uses an outdated design (you can see that the linkage connected the motor carraige to the base is using rubber rings instead of bolts)***
+
+Re: Lasercut drawings 
+
+Have not tested them yet, but they should work for lasercutting.
+
+If you are trying to use the CAD drawings to create a 3D model, the toolpaths are not set as correct subtractive shapes (only some holes will be created when extruding the base and platter).  I fixed this by reorganizing the paths in Adobe Illustrator, but only for the 700mm v7 drawing.  
+
+If you are not making a 3D model with the data for previs or customization, it can be safely ignored.
 
 Currently need:
 
 1.Parts list / BOM
-	a. Nuts
-	b. Bolts
-	c. Bearings
-	d. NEMA motor
-	e. Friction drive roller
-	f. Remote control from blog photos(IR? Radio?)
-	g. Motor driver
-	h. Hardware controllers (buttons, switches, shutter ports, wires)
+	* Nuts
+	* Bolts
+	* Bearings
+	* NEMA motor
+	* Friction drive roller
+	* Remote control from blog photos(IR? Radio?)
+	* Motor driver
+	* Hardware controllers (buttons, switches, shutter ports, wires)
 
 2. Software
-	a. Testing of current firmware / app
-	b. Configuration and operation instructions (see blog and archived website links for info on remote control operation)
+	* Testing of current firmware / app
+	* Configuration and operation instructions (see blog and archived website links for info on remote control operation)
 
 3. Schematics
-	a. Schematics for Arduino + Motordriver + Remote control receiver, Shutter ports, etc
+	* Schematics for Arduino + Motordriver + Remote control receiver, Shutter ports, etc
 
 
 
