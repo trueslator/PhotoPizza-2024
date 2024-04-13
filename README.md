@@ -11,7 +11,9 @@ using the detailed instructions, and you do not need deep knowledge in electroni
 
 Photopizza's original repository does not appear to be maintained any more.  The <a href="www.photopizza.org">website</a> appears to be offline as well, though there are some links in wayback machine.  No luck contacting the author.
 
-This fork is an attempt to collect all the information on the project and populate it with all neccessary instructions and resources.
+Basically, the project is not consolidated in one place, but there are bits and pieces scattered around.  The lasercut templates appear to be good, though there is no information about critical components featured in the photos. I.e. hardware specs on the bolts, nuts, bearings (blog indicates they are rollerskate bearings), friction roller, motor driver, remote control featured in the photos, remote control receiver, LCD display model, etc).  On the software side of things, there appears to be code and firmware from photopizza-DIY (merged into this repo), though there are no instructions re: setup, installation, operation. 
+
+This fork is an attempt to collect all the information on the project and populate it with all neccessary instructions and resources, and hopefully invite some community involvement.
 
 ###LINKS###
 
