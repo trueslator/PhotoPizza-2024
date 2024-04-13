@@ -9,7 +9,7 @@ The control unit platform is based on the Espruino.
 You can self-assemble the device from the available components,
 using the detailed instructions, and you do not need deep knowledge in electronics.
 
-###UPDATE 2024
+###UPDATE 2024###
 
 Photopizza's original repository does not appear to be maintained any more.  The <a href="www.photopizza.org">website</a> appears to be offline as well, though there are some links in wayback machine.  No luck contacting the author.
 
@@ -45,7 +45,7 @@ If you are trying to use the CAD drawings to create a 3D model, the toolpaths ar
 
 If you are not making a 3D model with the data for previs or customization, it can be safely ignored.
 
-Currently need:
+##Currently need:
 
 1.Parts list / BOM
 * Nuts
@@ -57,11 +57,11 @@ Currently need:
 * Motor driver
 * Hardware controllers (buttons, switches, shutter ports, wires)
 
-2. Software
+2.Software
 * Testing of current firmware / app
 * Configuration and operation instructions (see blog and archived website links for info on remote control operation)
 
-3. Schematics
+3.Schematics
 * Schematics for Arduino + Motordriver + Remote control receiver, Shutter ports, etc
 
 
